@@ -7,10 +7,10 @@ class index{
                 pilih = 0;
                 grandtotal = 0;
                 do {
-                        System.out.println("\n \n ==Toko Gaul==");
-                        System.out.println("1. Tas [Harga : 100.000]");
-                        System.out.println("2. Sepatu [Harga : 50.000]");
-                        System.out.println("3. Sapu [Harga : 300.000]");
+                        System.out.println("\n \n ==Warung Gaul==");
+                        System.out.println("1. Ayam Geprek [Harga : 18.000]");
+                        System.out.println("2. Mie Kuah [Harga : 20.000]");
+                        System.out.println("3. Seblak [Harga : 15.000]");
                         System.out.println("4. Selesai ");
                         System.out.print("Silahkan pilih menunya : ");
                         pilih = sc.nextInt();
