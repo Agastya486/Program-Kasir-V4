@@ -17,8 +17,8 @@ class index{
 
                         switch (pilih) {
                                 case 1:
-                                        System.out.println("Harga : 100.000");
-                                        harga = 100000;
+                                        System.out.println("Harga : 18.000");
+                                        harga = 18000;
                                         System.out.print("Mau beli berapa? :");
                                         jumlah = sc.nextInt();
                                         total = harga * jumlah;
@@ -27,8 +27,8 @@ class index{
                                         break;
                                 
                                 case 2:
-                                        System.out.println("Harga : 50.000");
-                                        harga = 50000;
+                                        System.out.println("Harga : 20.000");
+                                        harga = 20000;
                                         System.out.print("Mau beli berapa? :");
                                         jumlah = sc.nextInt();
                                         total = harga * jumlah;
@@ -37,8 +37,8 @@ class index{
                                         break;
                                
                                 case 3:
-                                        System.out.println("Harga : 300.000");
-                                        harga = 300000;
+                                        System.out.println("Harga : 15.000");
+                                        harga = 15000;
                                         System.out.print("Mau beli berapa? : ");
                                         jumlah = sc.nextInt();
                                         total = harga * jumlah;
